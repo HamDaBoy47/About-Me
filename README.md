@@ -70,8 +70,10 @@ LINK: https://github.com/Ileriayo/markdown-badges
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akarolia47&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarolia47&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!-- <a href="https://github.com/akarolia47">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akarolia47&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akarolia47&layout=compact&langs_count=8&theme=algolia"/>
