@@ -43,7 +43,7 @@ https://github.com/Project-ARENA/website
 ### ⚙️ &nbsp;GitHub Analytics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akarolia47&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarolia47&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarolia47&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <p align="center">
 <a href="https://github.com/akarolia47">
