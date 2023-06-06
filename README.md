@@ -24,7 +24,7 @@ https://github.com/Project-ARENA/website
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/c-%23-05122A?style=flat&logo=C&logoColor=9b4993)&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
