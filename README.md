@@ -7,9 +7,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a technologically curious soul.\
-🎓 &nbsp;I'm currently studying Computer Science at the University of Witwatersrand, in South Africa.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, Embedded Systems and Software Development.\
-✍️ &nbsp;In my free time, I pursue Art and Photography as hobbies/side hustles.\
+🎓 &nbsp;I hold a BSc in Computer Science from the University of Witwatersrand, in South Africa.\
+🎓 &nbsp;Currently pursuing Honours in Computer Science at WITS.
+🌱 &nbsp;I'm on track to learning more about Artificial Intelligence, Machine Learning, Cyber-security, Hardware and Software Development.\
+✍️ &nbsp;In my free time, I enjoy Gaming and Photography as hobbies.\
 💬 &nbsp;Feel free to reach out to me for anything for example volunteering, or just for some interesting discussion.
 
 <!---
@@ -40,9 +41,9 @@ https://github.com/Project-ARENA/website
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akarolia47&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akarolia47&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarolia47&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <p align="center">
