@@ -8,7 +8,7 @@
 
 💡 &nbsp;I'm a technologically curious soul.\
 🎓 &nbsp;I hold a BSc in Computer Science from the University of Witwatersrand, in South Africa.\
-🎓 &nbsp;Currently pursuing Honours in Computer Science at WITS.
+🎓 &nbsp;Currently pursuing Honours in Computer Science at WITS. \
 🌱 &nbsp;I'm on track to learning more about Artificial Intelligence, Machine Learning, Cyber-security, Hardware and Software Development.\
 ✍️ &nbsp;In my free time, I enjoy Gaming and Photography as hobbies.\
 💬 &nbsp;Feel free to reach out to me for anything for example volunteering, or just for some interesting discussion.
